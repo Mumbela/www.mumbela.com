@@ -73,3 +73,6 @@ gem "bootstrap", "~> 5.3"
 gem "dartsass-rails", "~> 0.5.1"
 
 gem "jquery-rails", "~> 4.6"
+
+gem "rack", ">= 3.1.11"
+gem "uri", ">= 1.0.3"
